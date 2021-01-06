@@ -1,0 +1,4 @@
+CREATE VIEW widok7 AS
+SELECT * FROM pojazdy
+WHERE marka='BMW'
+ORDER BY cena ASC
